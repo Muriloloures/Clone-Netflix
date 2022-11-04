@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/img/netflix-logoo.png)
+<img src="https://github.com/Muriloloures/Clone-Netflix/blob/master/src/img/netflix-logoo.png" width="160" height="100" />
 
 
 ## Site inspirado na Netflix
@@ -12,7 +12,7 @@ Aqui estão as tecnologias usadas nesse projeto.
 * HTML
 * CSS
 * JavaScript
-* React
+* ReactJs
 
 ## Como usar
 
