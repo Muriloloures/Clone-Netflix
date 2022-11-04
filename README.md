@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+![Logo of the project](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/img/netflix-logoo.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Site inspirado na Netflix
+Esse site é sobre filmes e séries
 
-In the project directory, you can run:
 
-### `npm start`
+## Tecnologias usadas 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Aqui estão as tecnologias usadas nesse projeto.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* HTML
+* CSS
+* JavaScript
+* React
 
-### `npm test`
+## Como usar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Ao fazer o clone do repositório em sua maquina de um npm install para instalar as dependências para que o projeto possa rodar
+* Logo após de um npm start para que ele possa iniciar
 
-### `npm run build`
+### 1 - Quando você entrar você verá a página inicial 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Homepage image](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/readme-img/netflix-main.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2 - Você também pode scrollar e ver as categorias que o site oferece ao usuário
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Posts](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/readme-img/netflix-row-1.png)
 
-### `npm run eject`
+![Posts](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/readme-img/netflix-row-2.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Recursos
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Aqui neste site você vai poder:
+ - Ficar por dentro dos lançamentos dos filmes, mas infelizmente não poderá assisti-los por aqui :(
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Links
+  - Repositorio: https://github.com/Muriloloures/Clone-Netflix
+    - Em caso de bugs ou qualquer outro problema por favor, contate-me
+      murilomlssloures@outlook.com. Eu valorizo o seu esforço para melhorar a qualidade e segurança deste projeto!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  ## Feito por:
 
-## Learn More
+  * **Murilo Loures** 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Me siga no github e junte-se a mim!
+  Obrigado por me visitar!
