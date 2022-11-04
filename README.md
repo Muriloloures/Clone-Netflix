@@ -9,9 +9,6 @@ Esse site é sobre filmes e séries
 
 Aqui estão as tecnologias usadas nesse projeto.
 
-* HTML
-* CSS
-* JavaScript
 * ReactJs
 
 ## Como usar
