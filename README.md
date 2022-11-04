@@ -27,7 +27,6 @@ Aqui estão as tecnologias usadas nesse projeto.
 
 ![Posts](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/readme-img/netflix-row-1.png)
 
-![Posts](https://github.com/Muriloloures/Clone-Netflix/blob/master/src/readme-img/netflix-row-2.png)
 
 ## Recursos
 
