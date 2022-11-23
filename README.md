@@ -31,6 +31,7 @@ Aqui neste site você vai poder:
  - Ficar por dentro dos lançamentos dos filmes, mas infelizmente não poderá assisti-los por aqui :(
 
 ## Links
+  - Deploy: https://clone-netflix-ochre-alpha.vercel.app/
   - Repositorio: https://github.com/Muriloloures/Clone-Netflix
     - Em caso de bugs ou qualquer outro problema por favor, contate-me
       murilomlssloures@outlook.com. Eu valorizo o seu esforço para melhorar a qualidade e segurança deste projeto!
